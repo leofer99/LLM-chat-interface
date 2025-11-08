@@ -16,8 +16,6 @@ A lightweight conversational interface that connects to the **Together AI** API 
 
 ## 🧰 Requirements
 
-Before running the script, ensure you have installed the following:
-
 ```bash
 pip install openai together tiktoken
 ```
