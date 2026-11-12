@@ -13,3 +13,7 @@ A lightweight conversational interface that connects to the **Together AI** API 
 ## 2. AI Translator English-Hindi
 
 This project implements an **AI-powered neural machine translation (NMT)** system that translates text from **English → Hindi** using the **Helsinki-NLP/opus-mt-en-hi** model (Transformer-based) from Hugging Face. The system is fine-tuned and evaluated using the **IIT Bombay English–Hindi Parallel Corpus**.
+
+## 3. MCP Client/Server
+
+In development.
